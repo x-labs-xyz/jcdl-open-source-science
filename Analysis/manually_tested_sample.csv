@@ -1,0 +1,348 @@
+,title,year,authors,citations,key,Correct Match,Insufficient information,Incorrect Match
+2703,Rectangular Bounding Process.,2018,Xuhui Fan/Bin Li 0015/Scott Sisson,93,github/balajiln/mondrianforest,0,0,1
+809,Distilling Translations with Visual Awareness.,2019,Julia Ive/Pranava Madhyastha/Lucia Specia,14,github/ImperialNLP/MMT-Delib,0,0,1
+2659,End-to-End Neural Relation Extraction with Global Optimization.,2017,Meishan Zhang/Yue Zhang 0004/Guohong Fu,73,github/tticoin/LSTM-ER,0,0,1
+2428,Multi-view Response Selection for Human-Computer Conversation.,2016,Xiangyang Zhou/Daxiang Dong/Hua Wu 0003/Shiqi Zhao/Dianhai Yu/Hao Tian/Xuan Liu/Rui Yan,149,github/npow/ubottu,0,0,1
+2911,Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks.,2019,Xiao Sun/Jungwook Choi/Chia-Yu Chen/Naigang Wang/Swagath Venkataramani/Vijayalakshmi Srinivasan/Xiaodong Cui/Wei Zhang/Kailash Gopalakrishnan,18,github/baidu-research/baidu-allreduce,0,0,1
+762,Stochastic Frank-Wolfe for Composite Convex Minimization.,2019,Francesco Locatello/Alp Yurtsever/Olivier Fercoq/Volkan Cevher,4,github/solevillar/kmeans_sdp,0,0,1
+3159,UV-GAN: Adversarial Facial UV Map Completion for Pose-Invariant Face Recognition.,2018,Jiankang Deng/Shiyang Cheng 0001/Niannan Xue/Yuxiang Zhou/Stefanos Zafeiriou,76,github/ydwen/caffe-face,0,0,1
+2888,Platforms for Non-speakers Annotating Names in Any Language.,2018,Ying Lin/Cash Costello/Boliang Zhang/Di Lu/Heng Ji/James Mayfield/Paul McNamee,7,github/andyhu/transliteration,0,0,1
+1369,Intelligent Agents and Networked Buttons Improve Free-Improvised Ensemble Music-Making on Touch-Screens.,2016,Charles P. Martin/Henry J. Gardner/Ben Swift/Michael A. Martin,11,github/mjskay/ARTool,0,0,1
+3354,Sobolev Training for Neural Networks.,2017,Wojciech M. Czarnecki/Simon Osindero/Max Jaderberg/Grzegorz Swirszcz/Razvan Pascanu,73,github/deepmind/sonnet,0,0,1
+3527,Learning from Omission.,2019,Bill McDowell/Noah D. Goodman,39,github/forkunited/ltprg,0,0,1
+3057,Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations.,2019,Sumeet Kumar/Kathleen M. Carley,15,github/huggingface/torchMoji,0,0,1
+3148,Detecting Adverse Drug Reactions from Biomedical Texts with Neural Networks.,2019,Ilseyar Alimova/Elena Tutubalina,24,github/songyouwei/ABSA-PyTorch,0,0,1
+2672,Manipulation Data Collection and Annotation Tool for Media Forensics.,2019,Eric Robertson/Haiying Guan/Mark Kozak/Yooyoung Lee/Amy N. Yates/Andrew Delgado/Daniel Zhou/Timothée Kheyrkhah/Jeff Smith/Jonathan G. Fiscus,31,github/antingshen/BeaverDam,0,0,1
+2578,Recovery Guarantee of Non-negative Matrix Factorization via Alternating Updates.,2016,Yuanzhi Li/Yingyu Liang/Andrej Risteski,17,github/blei-lab/lda-c,0,0,1
+1992,Representation Learning for Attributed Multiplex Heterogeneous Network.,2019,Yukuo Cen/Xu Zou/Jianwei Zhang/Hongxia Yang/Jingren Zhou/Jie Tang 0001,57,github/HKUST-KnowComp/MNE,0,0,1
+3255,Using High Frequency Accelerometer and Mouse to Compensate for End-to-end Latency in Indirect Interaction.,2018,Axel Antoine/Sylvain Malacria/Géry Casiez,4,github/signal11/hidapi,0,0,1
+3157,Haptipedia: Accelerating Haptic Device Discovery to Support Interaction & Engineering Design.,2019,Hasti Seifi/Farimah Fazlollahi/Michael Oppermann/John Andrew Sastrillo/Jessica Ip/Ashutosh Agrawal/Gunhyuk Park/Katherine J. Kuchenbecker/Karon E. MacLean,12,github/kermitt2/grobid,0,0,1
+2653,Got Flow?: Using Machine Learning on Physiological Data to Classify Flow.,2018,Raphael Rissler/Mario Nadj/Maximilian Xiling Li/Michael Thomas Knierim/Alexander Maedche,7,github/neuropsychology/NeuroKit,0,0,1
+3380,EUSP: An Easy-to-Use Semantic Parsing PlatForm.,2019,Bo An 0002/Bo Chen/Xianpei Han/Le Sun 0001,0,github/RasaHQ/rasa,0,0,1
+2299,Superquadrics Revisited: Learning 3D Shape Parsing Beyond Cuboids.,2019,Despoina Paschalidou/Ali Osman Ulusoy/Andreas Geiger,31,github/shubhtuls/volumetricPrimitives,0,0,1
+3383,Exploration and Explanation in Computational Notebooks.,2018,Adam Rule/Aurélien Tabard/James D. Hollan,92,github/jupyter/jupyter,0,0,1
+2926,CodeSwitch-Reddit: Exploration of Written Multilingual Discourse in Online Discussion Forums.,2019,Ella Rabinovich/Masih Sultani/Suzanne Stevenson,2,github/pushshift/api,0,0,1
+2992,Fast deep reinforcement learning using online adjustments from the past.,2018,Steven Hansen/Alexander Pritzel/Pablo Sprechmann/André Barreto/Charles Blundell,313,github/deepmind/pycolab,0,1,0
+2694,MVTec AD - A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection.,2019,Paul Bergmann/Michael Fauser/David Sattlegger/Carsten Steger,60,github/LeeDoYup/AnoGAN,0,0,1
+3295,"Personalizing Dialogue Agents: I have a dog, do you have pets too?",2018,Saizheng Zhang/Emily Dinan/Jack Urbanek/Arthur Szlam/Douwe Kiela/Jason Weston,385,github/facebookresearch/StarSpace,0,0,1
+3239,SPLATNet: Sparse Lattice Networks for Point Cloud Processing.,2018,Hang Su 0005/Varun Jampani/Deqing Sun/Subhransu Maji/Evangelos Kalogerakis/Ming-Hsuan Yang 0001/Jan Kautz,295,github/charlesq34/pointnet2,0,0,1
+2541,Layering the Choreographic Process: Making Dance Work with Machine Learning.,2017,Kate Sicchio,1,github/genekogan/ofxTSNE,0,1,0
+101,"Selecting, Planning, and Rewriting: A Modular Approach for Data-to-Document Generation and Translation.",2019,Lesly Miculicich/Marc Marone/Hany Hassan,5,github/neulab/DGT,0,0,1
+241,Depth-bounding is effective: Improvements and Evaluation of Unsupervised PCFG Induction.,2018,Lifeng Jin/Finale Doshi-Velez/Timothy A. Miller/William Schuler/Lane Schwartz,4,github/DrDub/cclparser,0,0,1
+2069,Towards a Multisensory Augmented Reality Map for Blind and Low Vision People: a Participatory Design Approach.,2018,Jérémy Albouys-Perrois/Jérémy Laviole/Carine Briant/Anke M. Brock,48,github/poqudrof/Papart,0,0,1
+2823,Modeling and Understanding Visual Attributes of Mental Health Disclosures in Social Media.,2017,Lydia Manikonda/Munmun De Choudhury,68,github/minghui/Twitter-LDA,0,0,1
+2600,KunPeng: Parameter Server based Distributed Learning Systems and Its Applications in Alibaba and Ant Financial.,2017,Jun Zhou 0011/Xiaolong Li 0005/Peilin Zhao/Chaochao Chen 0001/Longfei Li/Xinxing Yang/Qing Cui/Jin Yu/Xu Chen/Yi Ding/Yuan (Alan) Qi,24,github/intel-machine-learning/DistML,0,0,1
+2246,Crowdsourcing Rural Network Maintenance and Repair via Network Messaging.,2018,Esther Jang/Mary Claire Barela/Matthew Johnson 0011/Philip Martinez/Cedric Festin/Margaret Lynn/Josephine Dionisio/Kurtis Heimerl,14,github/facebookincubator/CommunityCellularManager,0,1,0
+2228,Deep Markov Neural Network for Sequential Data Classification.,2015,Min Yang,6,github/sancha/jrae,0,0,1
+3209,Learning to Reduce Dual-Level Discrepancy for Infrared-Visible Person Re-Identification.,2019,Zhixiang Wang/Zheng Wang/Yinqiang Zheng/Yung-Yu Chuang/Shin'ichi Satoh,54,github/mingyuliutw/UNIT,0,1,0
+1773,CED: Color Event Camera Dataset.,2019,Cedric Scheerlinck/Henri Rebecq/Timo Stoffregen/Nick Barnes/Robert E. Mahony/Davide Scaramuzza,14,github/VLOGroup/dvs-reconstruction,0,0,1
+3280,Data-Driven Reserve Prices for Social Advertising Auctions at LinkedIn.,2017,Tingting Cui/Lijun Peng/David Pardoe/Kun Liu/Deepak Agarwal/Deepak Kumar,0,github/linkedin/pinot,0,0,1
+2026,A Unified Linear-Time Framework for Sentence-Level Discourse Parsing.,2019,Xiang Lin/Shafiq R. Joty/Prathyusha Jwalapuram/Saiful Bari,24,github/PKU-TANGENT/NeuralEDUSeg,0,0,1
+2743,Low-shot Learning via Covariance-Preserving Adversarial Augmentation Networks.,2018,Hang Gao/Zheng Shou/Alireza Zareian/Hanwang Zhang/Shih-Fu Chang,36,github/facebookresearch/low-shot-shrink-hallucinate,0,0,1
+3178,Recurrent Neural Network for (Un-)Supervised Learning of Monocular Video Visual Odometry and Depth.,2019,Rui Wang/Stephen M. Pizer/Jan-Michael Frahm,32,github/MichaelGrupp/evo,0,0,1
+2353,DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction.,2019,Huaishao Luo/Tianrui Li/Bing Liu 0001/Junbo Zhang,28,github/howardhsu/DE-CNN,0,0,1
+3071,Towards Controllable and Personalized Review Generation.,2019,Pan Li 0008/Alexander Tuzhilin,5,github/geek-ai/Texygen,0,0,1
+3006,Facilitating Context Switching Through Tangible Artifacts.,2017,Osazuwa Okundaye/Francis K. H. Quek/Shyam Prathish Sargunam/Mohamed Suhail/Ranjita Das,0,github/armadsen/ORSSerialPort,0,0,1
+2718,Channel Attention Networks.,2019,Alexei Bastidas/Hanlin Tang,775,github/SpaceNetChallenge/utilities,0,0,1
+2916,Rapid Adaptation of Neural Machine Translation to New Languages.,2018,Graham Neubig/Junjie Hu,71,github/artetxem/undreamt,0,0,1
+593,Using Convolutional Neural Networks to Recognize Rhythm Stimuli from Electroencephalography Recordings.,2014,Sebastian Stober/Daniel J. Cameron/Jessica A. Grahn,92,github/kastnerkyle/pylearn2,0,0,1
+3440,Im2Flow: Motion Hallucination From Static Images for Action Recognition.,2018,Ruohan Gao/Bo Xiong/Kristen Grauman,45,github/SilviaLauraPintea/DejaVu,0,0,1
+2563,"Plan, Attend, Generate: Planning for Sequence-to-Sequence Models.",2017,Çaglar Gülçehre/Francis Dutil/Adam Trischler/Yoshua Bengio,10,github/nyu-dl/dl4mt-cdec,0,0,1
+3298,SottoVoce: An Ultrasound Imaging-Based Silent Speech Interaction Using Deep Neural Networks.,2019,Naoki Kimura/Michinari Kono/Jun Rekimoto,13,github/andabi/deep-voice-conversion,0,0,1
+2618,Visual Search at eBay.,2017,Fan Yang/Ajinkya Kale/Yury Bubnov/Leon Stein/Qiaosong Wang/M. Hadi Kiapour/Robinson Piramuthu,45,github/kevinlin311tw/caffe-augmentation,0,0,1
+2662,Forecasting Intra-Hour Imbalances in Electric Power Systems.,2019,Tárik S. Salem/Karan Kathuria/Heri Ramampiaro/Helge Langseth,4,github/scikit-garden/scikit-garden,0,0,1
+2791,Disentangling by Factorising.,2018,Hyunjik Kim/Andriy Mnih,409,github/deepmind/dsprites-dataset,0,0,1
+2040,Image Super-Resolution by Neural Texture Transfer.,2019,Zhifei Zhang/Zhaowen Wang/Zhe L. Lin/Hairong Qi,46,github/htzheng/ECCV2018_CrossNet_RefSR,0,0,1
+2877,An Empirical Study of Building a Strong Baseline for Constituency Parsing.,2018,Jun Suzuki/Sho Takase/Hidetaka Kamigaito/Makoto Morishita/Masaaki Nagata,10,github/zihangdai/mos,0,0,1
+895,Deep Generalized Method of Moments for Instrumental Variable Analysis.,2019,Andrew Bennett/Nathan Kallus/Tobias Schnabel,23,github/vsyrgkanis/adversarial_gmm,0,0,1
+2321,Images Don't Lie: Transferring Deep Visual Semantic Features to Large-Scale Multimodal Learning to Rank.,2016,Corey Lynch/Kamelia Aryafar/Josh Attenberg,50,github/coreylynch/vgg-19-feature-extractor,0,0,1
+3001,Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation.,2018,Matthew O'Kelly/Aman Sinha/Hongseok Namkoong/Russ Tedrake/John C. Duchi,47,github/deepdrive/deepdrive,0,0,1
+3241,Discourse-Aware Semantic Self-Attention for Narrative Reading Comprehension.,2019,Todor Mihaylov/Anette Frank,10,github/huggingface/neuralcoref,0,0,1
+2349,You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle.,2019,Dinghuai Zhang/Tianyuan Zhang/Yiping Lu/Zhanxing Zhu/Bin Dong 0001,54,github/ashafahi/free_adv_train,0,0,1
+1685,Word2Sense: Sparse Interpretable Word Embeddings.,2019,Abhishek Panigrahi/Harsha Vardhan Simhadri/Chiranjib Bhattacharyya,12,github/harsh19/SPINE,0,0,1
+2793,Outta Control: Laws of Semantic Change and Inherent Biases in Word Representation Models.,2017,Haim Dubossarsky/Daphna Weinshall/Eitan Grossman,76,github/williamleif/histwords,0,1,0
+2816,Automatic Keyphrase Extraction: A Survey of the State of the Art.,2014,Kazi Saidul Hasan/Vincent Ng,419,github/snkim/AutomaticKeyphraseExtraction,1,0,0
+3002,Predicting the Argumenthood of English Prepositional Phrases.,2019,Najoung Kim/Kyle Rawlins/Benjamin Van Durme/Paul Smolensky,2,github/idio/wiki2vec,0,1,0
+1658,Random Feature Expansions for Deep Gaussian Processes.,2017,Kurt Cutajar/Edwin V. Bonilla/Pietro Michiardi/Maurizio Filippone,75,github/thangbui/deepGP_approxEP,0,1,0
+3512,First Order Generative Adversarial Networks.,2018,Calvin Seward/Thomas Unterthiner/Urs Bergmann/Nikolay Jetchev/Sepp Hochreiter,35,github/zalandoresearch/first_order_gan,1,0,0
+1232,JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets.,2018,Yunchen Pu/Shuyang Dai/Zhe Gan/Weiyao Wang/Guoyin Wang 0002/Yizhe Zhang/Ricardo Henao/Lawrence Carin,25,github/sdai654416/Joint-GAN,1,0,0
+2158,"Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting.",2019,Rajat Sen/Hsiang-Fu Yu/Inderjit S. Dhillon,32,github/rajatsen91/deepglo,1,0,0
+839,If all you have is a bit of the Bible: Learning POS taggers for truly low-resource languages.,2015,Zeljko Agic/Dirk Hovy/Anders Søgaard,57,github/dhgarrette/low-resource-pos-tagging-2014,0,1,0
+2835,Feature Selective Networks for Object Detection.,2018,Yao Zhai/Jingjing Fu/Yan Lu 0001/Houqiang Li,170,github/auduno/deepdraw,0,1,0
+3306,Differential Properties of Sinkhorn Approximation for Learning with Wasserstein Distance.,2018,Giulia Luise/Alessandro Rudi/Massimiliano Pontil/Carlo Ciliberto,48,github/googlecreativelab/quickdraw-dataset,0,1,0
+230,What's Wrong with Hebrew NLP? And How to Make it Right.,2019,Reut Tsarfaty/Shoval Sadde/Stav Klein/Amit Seker,5,github/OnlpLab/Hebrew_UD,0,1,0
+430,AdaGrad stepsizes: sharp convergence over nonconvex landscapes.,2019,Rachel Ward/Xiaoxia Wu/Léon Bottou,95,github/xwuShirley/pytorch,0,1,0
+2019,"Streaming, Distributed Variational Inference for Bayesian Nonparametrics.",2015,Trevor Campbell/Julian Straub/John W. Fisher III/Jonathan P. How,32,github/hrldcpr/hungarian,0,1,0
+1277,Cheap and easy entity evaluation.,2014,Ben Hachey/Joel Nothman/Will Radford,40,github/wikilinks/conll03_nel_eval,0,1,0
+2186,Fast-Slow Recurrent Neural Networks.,2017,Asier Mujika/Florian Meier 0002/Angelika Steger,59,github/amujika/Fast-Slow-LSTM,0,1,0
+460,Multi-lingual Common Semantic Space Construction via Cluster-Consistent Word Embedding.,2018,Lifu Huang/Kyunghyun Cho/Boliang Zhang/Heng Ji/Kevin Knight,10,github/wilburOne/CommonSpace,0,1,0
+1287,Feedback-Guided Anomaly Discovery via Online Optimization.,2018,Md Amran Siddiqui/Alan Fern/Thomas G. Dietterich/Ryan Wright/Alec Theriault/David W. Archer,29,github/siddiqmd/FeedbackIsolationForest,0,1,0
+2568,Do-it-yourself cellphones: an investigation into the possibilities and limits of high-tech diy.,2014,David A. Mellis/Leah Buechley,43,github/damellis/cellphone2hw,0,1,0
+2753,Increasing the Transparency of Research Papers with Explorable Multiverse Analyses.,2019,Pierre Dragicevic/Yvonne Jansen/Abhraneel Sarma/Matthew Kay 0001/Fanny Chevalier,26,github/distillpub/template,0,1,0
+104,Training Neural Machines with Trace-Based Supervision.,2018,Matthew Mirman/Dimitar I. Dimitrov/Pavle Djordjevic/Timon Gehr/Martin T. Vechev,0,github/eth-sri/ncm,0,1,0
+1609,A Tensorized Transformer for Language Modeling.,2019,Xindian Ma/Peng Zhang 0002/Shuai Zhang/Nan Duan/Yuexian Hou/Ming Zhou 0001/Dawei Song 0001,26,github/szhangtju/The-compression-of-Transformer,0,1,0
+1247,Extending Manual Drawing Practices with Artist-Centric Programming Tools.,2018,Jennifer Jacobs/Joel Brandt/Radomír Mech/Mitchel Resnick,11,github/pixelmaid/DynamicBrushes,0,1,0
+616,We Need to Talk about Standard Splits.,2019,Kyle Gorman/Steven Bedrick,203,github/kylebgorman/SOTA-taggers,0,1,0
+2503,hyperdoc2vec: Distributed Representations of Hypertext Documents.,2018,Jialong Han/Yan Song/Wayne Xin Zhao/Shuming Shi 0001/Haisong Zhang,10,github/knmnyn/ParsCit,0,1,0
+172,Soft Representation Learning for Sparse Transfer.,2019,Haeju Park/Jinyoung Yeo/Gengyu Wang/Seung-won Hwang,1,github/haejupark/soft,0,1,0
+2942,Free-hand interaction with leap motion controller for stroke rehabilitation.,2014,Maryam Khademi/Hossein Mousavi Hondori/Alison McKenzie/Lucy Dodakian/Cristina Videira Lopes/Steven C. Cramer,150,github/ChineseDron/fruit-ninja,0,1,0
+264,Causal Relationship Prediction with Continuous Additive Noise Models.,2018,Mandar S. Chaudhary/Nagiza F. Samatova,0,github/bquast/ANM,0,1,0
+57,3D Steerable CNNs: Learning Rotationally Equivariant Features in Volumetric Data.,2018,Maurice Weiler/Mario Geiger/Max Welling/Wouter Boomsma/Taco Cohen,91,github/wouterboomsma/cath_datasets,0,1,0
+3307,Joint Optimization of Tree-based Index and Deep Model for Recommender Systems.,2019,Han Zhu/Daqing Chang/Ziru Xu/Pengye Zhang/Xiang Li/Jie He/Han Li/Jian Xu/Kun Gai,9,github/alibaba/x-deeplearning,0,1,0
+1291,Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks.,2019,Yinpeng Dong/Tianyu Pang/Hang Su 0006/Jun Zhu 0001,73,github/anlthms/nips-2017,0,1,0
+2735,Graph Convolution over Pruned Dependency Trees Improves Relation Extraction.,2018,Yuhao Zhang/Peng Qi 0003/Christopher D. Manning,230,github/yuhaozhang/tacred-relation,1,0,0
+2843,On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks.,2019,Sunil Thulasidasan/Gopinath Chennupati/Jeff A. Bilmes/Tanmoy Bhattacharya/Sarah Michalak,68,github/hongyi-zhang/mixup,1,0,0
+467,Figuring out the User in a Few Steps: Bayesian Multifidelity Active Search with Cokriging.,2019,Nikita Klyuchnikov/Davide Mottin/Georgia Koutrika/Emmanuel Müller/Panagiotis Karras,3,github/user526/BMFASC,1,0,0
+1296,DopeLearning: A Computational Approach to Rap Lyrics Generation.,2016,Eric Malmi/Pyry Takala/Hannu Toivonen/Tapani Raiko/Aristides Gionis,47,github/ekQ/dopelearning,1,0,0
+3502,On the (In)fidelity and Sensitivity of Explanations.,2019,Chih-Kuan Yeh/Cheng-Yu Hsieh/Arun Sai Suggala/David I. Inouye/Pradeep Ravikumar,27,github/chihkuanyeh/saliency_evaluation,1,0,0
+69,Detecting Non-compositional MWE Components using Wiktionary.,2014,Bahar Salehi/Paul Cook/Timothy Baldwin,17,github/bsalehi/wiktionary_MWE_compositionality,1,0,0
+3166,Towards ML Engineering with TensorFlow Extended (TFX).,2019,Konstantinos Katsiapis/Kevin Haas,1,github/tensorflow/tfx,1,0,0
+1523,Variational Walkback: Learning a Transition Operator as a Stochastic Recurrent Net.,2017,Anirudh Goyal/Nan Rosemary Ke/Surya Ganguli/Yoshua Bengio,16,github/anirudh9119/walkback_nips17,1,0,0
+2220,A Deep Reinforcement Learning Perspective on Internet Congestion Control.,2019,Nathan Jay/Noga H. Rotman/Brighten Godfrey/Michael Schapira/Aviv Tamar,59,github/PCCproject/PCC-RL,1,0,0
+2334,RETURNN as a Generic Flexible Neural Toolkit with Application to Translation and Speech Recognition.,2018,Albert Zeyer/Tamer Alkhouli/Hermann Ney,44,github/rwth-i6/returnn-experiments,1,0,0
+1665,Learning Attractor Dynamics for Generative Memory.,2018,Yan Wu/Gregory Wayne/Karol Gregor/Timothy P. Lillicrap,11,github/deepmind/dynamic-kanerva-machines,1,0,0
+1855,Adaptive Cross-Modal Few-shot Learning.,2019,Chen Xing/Negar Rostamzadeh/Boris N. Oreshkin/Pedro O. Pinheiro,27,github/ElementAI/am3,1,0,0
+1266,"Humans Require Context to Infer Ironic Intent (so Computers Probably do, too).",2014,Byron C. Wallace/Do Kook Choe/Laura Kertz/Eugene Charniak,88,github/bwallace/ACL-2014-irony,1,0,0
+153,Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data.,2019,Mike Li/Elija Perrier/Chang Xu 0002,2,github/mili7522/Hierarchical-GCNN,1,0,0
+882,StockAssIstant: A Stock AI Assistant for Reliability Modeling of Stock Comments.,2018,Chen Zhang/Yijun Wang/Can Chen/Changying Du/Hongzhi Yin/Hao Wang,6,github/zhangchen010295/Reliability-Modeling-for-Stock-Comments,1,0,0
+150,Equitable Stable Matchings in Quadratic Time.,2019,Nikolaos Tziavelis/Ioannis Giannakopoulos/Katerina Doka/Nectarios Koziris/Panagiotis Karras,2,github/ntzia/stable-marriage,1,0,0
+110,A Neurorobotic Experiment for Crossmodal Conflict Resolution.,2019,German Ignacio Parisi/Pablo V. A. Barros/Di Fu/Sven Magg/Haiyan Wu/Xun Liu/Stefan Wermter,0,github/knowledgetechnologyuhh/CML_A5_Neurorobotic_IROS2018,1,0,0
+1342,Docent: A Document-Level Decoder for Phrase-Based Statistical Machine Translation.,2013,Christian Hardmeier/Sara Stymne/Jörg Tiedemann/Joakim Nivre,53,github/chardmeier/docent,1,0,0
+487,Learning language through pictures.,2015,Grzegorz Chrupala/Ákos Kádár/Afra Alishahi,85,github/gchrupala/imaginet,1,0,0
+1005,Preconditioning Kernel Matrices.,2016,Kurt Cutajar/Michael A. Osborne/John P. Cunningham/Maurizio Filippone,39,github/mauriziofilippone/preconditioned_GPs,1,0,0
+3147,Theseus: understanding asynchronous code.,2013,Tom Lieber,4,github/adobe-research/theseus,1,0,0
+200,PickCells: A Physically Reconfigurable Cell-composed Touchscreen.,2019,Alix Goguey/Cameron Steer/Andrés Lucero/Laurence Nigay/Deepak Ranjan Sahoo/Céline Coutrix/Anne Roudaut/Sriram Subramanian/Yutaka Tokuda/Timothy Neate/Jennifer Pearson 0001/Simon Robinson 0001/Matt Jones 0001,4,github/FITLab-Swansea/PickCells,1,0,0
+2426,Safe Model-based Reinforcement Learning with Stability Guarantees.,2017,Felix Berkenkamp/Matteo Turchetta/Angela P. Schoellig/Andreas Krause 0001,289,github/befelix/safe_learning,1,0,0
+131,Latent Tree Language Model.,2016,Tomás Brychcín,12,github/brychcin/LTLM,1,0,0
+195,KnowYourNyms? A Game of Semantic Relationships.,2017,Ross Mechanic/Dean Fulgoni/Hannah Cutler/Sneha Rajana/Zheyuan Liu/Bradley Jackson/Anne Cocos/Chris Callison-Burch/Marianna Apidianaki,0,github/rossmechanic/know_your_nyms,1,0,0
+391,Scaling Up Ordinal Embedding: A Landmark Approach.,2019,Jesse Anderton/Javed A. Aslam,3,github/jesand/lloe,1,0,0
+1520,Matrix Computations and Optimization in Apache Spark.,2016,Reza Bosagh Zadeh/Xiangrui Meng/Alexander Ulanov/Burak Yavuz/Li Pu/Shivaram Venkataraman/Evan R. Sparks/Aaron Staple/Matei Zaharia,87,github/avulanov/scala-blas,1,0,0
+210,ALOJA-ML: A Framework for Automating Characterization and Knowledge Discovery in Hadoop Deployments.,2015,Josep Lluis Berral/Nicolás Poggi/David Carrera 0001/Aaron Call/Rob Reinauer/Daron Green,22,github/Aloja/aloja-ml,1,0,0
+2445,CatBoost: unbiased boosting with categorical features.,2018,Liudmila Ostroumova Prokhorenkova/Gleb Gusev/Aleksandr Vorobev/Anna Veronika Dorogush/Andrey Gulin,305,github/catboost/benchmarks,1,0,0
+2478,Bidirectional Learning for Domain Adaptation of Semantic Segmentation.,2019,Yunsheng Li/Lu Yuan/Nuno Vasconcelos,76,github/liyunsheng13/BDL,1,0,0
+1040,Detecting and Characterizing Events.,2016,Allison June-Barlow Chaney/Hanna M. Wallach/Matthew Connelly/David M. Blei,20,github/ajbc/capsule,1,0,0
+2496,A PID Controller Approach for Stochastic Optimization of Deep Networks.,2018,Wangpeng An/Haoqian Wang/Qingyun Sun/Jun Xu 0019/Qionghai Dai/Lei Zhang 0006,27,github/tensorboy/PIDOptimizer,1,0,0
+2156,Differentiable MPC for End-to-end Planning and Control.,2018,Brandon Amos/Ivan Dario Jimenez Rodriguez/Jacob Sacks/Byron Boots/J. Zico Kolter,85,github/locuslab/differentiable-mpc,1,0,0
+817,DisplaceNet: Recognising Displaced People from Images by Exploiting Dominance Level.,2019,Grigorios Kalliatakis/Shoaib Ehsan/Maria Fasli/Klaus D. McDonald-Maier,4,github/GKalliatakis/DisplaceNet,1,0,0
+16,Sparsity and Noise: Where Knowledge Graph Embeddings Fall Short.,2017,Jay Pujara/Eriq Augustine/Lise Getoor,41,github/linqs/pujara-emnlp17,1,0,0
+1248,Unsupervised Neural Text Simplification.,2019,Sai Surya/Abhijit Mishra/Anirban Laha/Parag Jain/Karthik Sankaranarayanan,22,github/subramanyamdvss/UnsupNTS,1,0,0
+2547,A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks.,2018,Kimin Lee/Kibok Lee/Honglak Lee/Jinwoo Shin,241,github/pokaxpoka/deep_Mahalanobis_detector,1,0,0
+1423,A Knowledge-Grounded Multimodal Search-Based Conversational Agent.,2018,Shubham Agarwal 0001/Ondrej Dusek/Ioannis Konstas/Verena Rieser,8,github/shubhamagarwal92/mmd,1,0,0
+2635,Transition-Based Dependency Parsing with Stack Long Short-Term Memory.,2015,Chris Dyer/Miguel Ballesteros/Wang Ling/Austin Matthews/Noah A. Smith,765,github/clab/lstm-parser,1,0,0
+98,Adaptive Belief Propagation.,2015,Georgios Papachristoudis/John W. Fisher III,1,github/geopapa11/adabp,1,0,0
+1427,Semi-supervisedly Co-embedding Attributed Networks.,2019,Zaiqiao Meng/Shangsong Liang/Jinyuan Fang/Teng Xiao,2,github/mengzaiqiao/SCAN,1,0,0
+1202,End-to-End Learning on 3D Protein Structure for Interface Prediction.,2019,Raphael J. L. Townshend/Rishi Bedi/Patricia Suriana/Ron O. Dror,13,github/drorlab/DIPS,1,0,0
+1084,Efficient Neural Network Compression.,2019,Hyeji Kim/Muhammad Umar Karim Khan/Chong-Min Kyung,18,github/Hyeji-Kim/ENC,1,0,0
+1785,Multi-Source Weak Supervision for Saliency Detection.,2019,Yu Zeng/Yun-Zhi Zhuge/Huchuan Lu/Lihe Zhang/Mingyang Qian/Yizhou Yu,38,github/zengxianyu/mws,1,0,0
+1686,Theoretical Linear Convergence of Unfolded ISTA and Its Practical Weights and Thresholds.,2018,Xiaohan Chen/Jialin Liu 0003/Zhangyang Wang/Wotao Yin,79,github/xchen-tamu/linear-lista-cpss,1,0,0
+1977,Using Pre-Training Can Improve Model Robustness and Uncertainty.,2019,Dan Hendrycks/Kimin Lee/Mantas Mazeika,104,github/hendrycks/pre-training,1,0,0
+1329,YouMakeup: A Large-Scale Domain-Specific Multimodal Dataset for Fine-Grained Semantic Comprehension.,2019,Weiying Wang/Yongcheng Wang/Shizhe Chen/Qin Jin,4,github/AIM3-RUC/YouMakeup,1,0,0
+3034,SWALP : Stochastic Weight Averaging in Low Precision Training.,2019,Guandao Yang/Tianyi Zhang/Polina Kirichenko/Junwen Bai/Andrew Gordon Wilson/Christopher De Sa,22,github/timgaripov/swa,1,0,0
+1709,Form Follows Sound: Designing Interactions from Sonic Memories.,2015,Baptiste Caramiaux/Alessandro Altavilla/Scott G. Pobiner/Atau Tanaka,32,github/bcaramiaux/Gestural-Sound-Toolkit,1,0,0
+85,Lost in Evaluation: Misleading Benchmarks for Bilingual Dictionary Induction.,2019,Yova Kementchedjhieva/Mareike Hartmann/Anders Søgaard,7,github/coastalcph/MUSE_dicos,1,0,0
+2901,Self-Regulated Interactive Sequence-to-Sequence Learning.,2019,Julia Kreutzer/Stefan Riezler,3,github/joeynmt/joeynmt,1,0,0
+1359,Deep Multi-Output Forecasting: Learning to Accurately Predict Blood Glucose Trajectories.,2018,Ian Fox/Lynn Ang/Mamta Jaiswal/Rodica Pop-Busui/Jenna Wiens,35,github/igfox/multi-output-glucose-forecasting,1,0,0
+1351,Latent RANSAC.,2018,Simon Korman/Roee Litman,18,github/rlit/LatentRANSAC,1,0,0
+3469,Fast Structured Decoding for Sequence Models.,2019,Zhiqing Sun/Zhuohan Li/Haoqing Wang/Di He/Zi Lin/Zhi-Hong Deng,22,github/Edward-Sun/structured-nart,1,0,0
+961,FANDA: A Novel Approach to Perform Follow-Up Query Analysis.,2019,Qian Liu/Bei Chen/Jian-Guang Lou/Ge Jin/Dongmei Zhang,2,github/SivilTaram/FollowUp,1,0,0
+243,Do Differences in Password Policies Prevent Password Reuse?,2017,Tobias Seitz/Manuel Hartmann/Jakob Pfab/Samuel Souque,14,github/mimuc/password-policy-dataset,1,0,0
+1731,On the Transfer of Inductive Bias from Simulation to the Real World: a New Disentanglement Dataset.,2019,Muhammad Waleed Gondal/Manuel Wuthrich/Djordje Miladinovic/Francesco Locatello/Martin Breidt/Valentin Volchkov/Joel Akpo/Olivier Bachem/Bernhard Schölkopf/Stefan Bauer,18,github/rr-learning/disentanglement_dataset,1,0,0
+806,Sketched Follow-The-Regularized-Leader for Online Factorization Machine.,2018,Luo Luo/Wenpeng Zhang 0003/Zhihua Zhang/Wenwu Zhu 0001/Tong Zhang/Jian Pei,3,github/bmdy/SFTRL,1,0,0
+2136,Bridging Theory and Algorithm for Domain Adaptation.,2019,Yuchen Zhang 0004/Tianle Liu/Mingsheng Long/Michael I. Jordan,85,github/thuml/MDD,1,0,0
+526,Co-Generation with GANs using AIS based HMC.,2019,Tiantian Fang/Alexander G. Schwing,1,github/AilsaF/cogen_by_ais,1,0,0
+1769,Object Instance Annotation With Deep Extreme Level Set Evolution.,2019,Zian Wang/David Acuna/Huan Ling/Amlan Kar/Sanja Fidler,25,github/fidler-lab/delse,1,0,0
+1634,Random Path Selection for Continual Learning.,2019,Jathushan Rajasegaran/Munawar Hayat/Salman H. Khan 0001/Fahad Shahbaz Khan/Ling Shao 0001,26,github/brjathu/RPSnet,1,0,0
+830,Dimension-Wise Importance Sampling Weight Clipping for Sample-Efficient Reinforcement Learning.,2019,Seungyul Han/Youngchul Sung,3,github/seungyulhan/disc,1,0,0
+1143,"Deep, complex, invertible networks for inversion of transmission effects in multimode optical fibres.",2018,Oisín Moran/Piergiorgio Caramazza/Daniele Faccio/Roderick Murray-Smith,6,github/rodms/opticalfibreml,1,0,0
+2799,Unsupervised Cross-Dataset Person Re-Identification by Transfer Learning of Spatial-Temporal Patterns.,2018,Jianming Lv/Weihang Chen/Qing Li 0001/Can Yang,101,github/ahangchen/TFusion,1,0,0
+1547,Learning Long Term Dependencies via Fourier Recurrent Units.,2018,Jiong Zhang/Yibo Lin/Zhao Song/Inderjit S. Dhillon,13,github/limbo018/FRU,1,0,0
+1352,GDPP: Learning Diverse Generations using Determinantal Point Processes.,2019,Mohamed Elfeki/Camille Couprie/Morgane Rivière/Mohamed Elhoseiny,24,github/M-Elfeki/GDPP,1,0,0
+1521,Modeling Semantic Compositionality with Sememe Knowledge.,2019,Fanchao Qi/Junjie Huang 0003/Chenghao Yang/Zhiyuan Liu 0001/Xiao Chen/Qun Liu/Maosong Sun,13,github/thunlp/Sememe-SC,1,0,0
+629,What Does This Word Mean? Explaining Contextualized Embeddings with Natural Language Definition.,2019,Ting-Yun Chang/Yun-Nung Chen,6,github/MiuLab/GenDef,1,0,0
+1645,Attention Based Glaucoma Detection: A Large-Scale Database and CNN Model.,2019,Liu Li/Mai Xu/Xiaofei Wang/Lai Jiang/Hanruo Liu,27,github/smilell/AG-CNN,1,0,0
+2959,Inverse Cooking: Recipe Generation From Food Images.,2019,Amaia Salvador/Michal Drozdzal/Xavier Giró-i-Nieto/Adriana Romero,40,github/facebookresearch/inversecooking,1,0,0
+2402,Finding Task-Relevant Features for Few-Shot Learning by Category Traversal.,2019,Hongyang Li/David Eigen/Samuel Dodge/Matthew Zeiler/Xiaogang Wang,67,github/Clarifai/few-shot-ctm,1,0,0
+344,Local SGD with Periodic Averaging: Tighter Analysis and Adaptive Synchronization.,2019,Farzin Haddadpour/Mohammad Mahdi Kamani/Mehrdad Mahdavi/Viveck R. Cadambe,37,github/mmkamani7/LUPA-SGD,1,0,0
+1944,XQA: A Cross-lingual Open-domain Question Answering Dataset.,2019,Jiahua Liu/Yankai Lin/Zhiyuan Liu 0001/Maosong Sun,22,github/thunlp/XQA,1,0,0
+2495,Better Hypothesis Testing for Statistical Machine Translation: Controlling for Optimizer Instability.,2011,Jonathan H. Clark/Chris Dyer/Alon Lavie/Noah A. Smith,471,github/jhclark/multeval,1,0,0
+1592,Learning Equations for Extrapolation and Control.,2018,Subham S. Sahoo/Christoph H. Lampert/Georg Martius,35,github/martius-lab/EQL,1,0,0
+988,Iterative Normalization: Beyond Standardization Towards Efficient Whitening.,2019,Lei Huang/Yi Zhou 0007/Fan Zhu 0001/Li Liu 0004/Ling Shao 0001,16,github/huangleiBuaa/IterNorm,1,0,0
+820,Safe Policy Improvement with Baseline Bootstrapping.,2019,Romain Laroche/Paul Trichelair/Remi Tachet des Combes,43,github/rems75/SPIBB-DQN,1,0,0
+3509,Action Robust Reinforcement Learning and Applications in Continuous Control.,2019,Chen Tessler/Yonathan Efroni/Shie Mannor,188,github/tesslerc/ActionRobustRL,1,0,0
+844,Light Field Messaging With Deep Photographic Steganography.,2019,Eric Wengrowski/Kristin J. Dana,12,github/mathski/LFM,1,0,0
+2447,Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting.,2019,Jun Shu/Qi Xie/Lixuan Yi/Qian Zhao 0002/Sanping Zhou/Zongben Xu/Deyu Meng,69,github/xjtushujun/meta-weight-net,1,0,0
+1280,Improving the Gaussian Process Sparse Spectrum Approximation by Representing Uncertainty in Frequency Inputs.,2015,Yarin Gal/Richard Turner,57,github/yaringal/VSSGP,1,0,0
+357,Reactile: Programming Swarm User Interfaces through Direct Physical Manipulation.,2018,Ryo Suzuki/Jun Kato 0001/Mark D. Gross/Tom Yeh,17,github/ryosuzuki/reactile,1,0,0
+621,Textbook Question Answering Under Instructor Guidance With Memory Networks.,2018,Juzheng Li/Hang Su 0006/Jun Zhu 0001/Siyu Wang/Bo Zhang 0010,9,github/freerailway/igmn,1,0,0
+1528,Efficient Communication in Multi-Agent Reinforcement Learning via Variance Based Control.,2019,Sai Qian Zhang/Qi Zhang/Jieyu Lin,6,github/saizhang0218/VBC,1,0,0
+2270,Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation.,2019,Ke Wang/Hang Hua/Xiaojun Wan 0001,14,github/Nrgeup/controllable-text-attribute-transfer,1,0,0
+1598,Smooth Neighbors on Teacher Graphs for Semi-Supervised Learning.,2018,Yucen Luo/Jun Zhu 0001/Mengxi Li/Yong Ren/Bo Zhang 0010,110,github/xinmei9322/SNTG,1,0,0
+2904,Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings.,2015,Nanyun Peng/Mark Dredze,138,github/hltcoe/golden-horse,1,0,0
+1229,A Wind of Change: Detecting and Evaluating Lexical Semantic Change across Times and Domains.,2019,Dominik Schlechtweg/Anna Hätty/Marco Del Tredici/Sabine Schulte im Walde,36,github/Garrafao/LSCDetection,1,0,0
+400,Numeracy-600K: Learning Numeracy for Detecting Exaggerated Information in Market Comments.,2019,Chung-Chi Chen/Hen-Hsen Huang/Hiroya Takamura/Hsin-Hsi Chen,12,github/aistairc/Numeracy-600K,1,0,0
+2071,Exploring Topic Coherence over Many Models and Many Topics.,2012,Keith Stevens/W. Philip Kegelmeyer/David Andrzejewski/David Buttler,313,github/fozziethebeat/TopicModelComparison,1,0,0
+2846,Latent Intention Dialogue Models.,2017,Tsung-Hsien Wen/Yishu Miao/Phil Blunsom/Steve J. Young,114,github/shawnwun/NNDIAL,1,0,0
+1097,Learning Deep Parsimonious Representations.,2016,Renjie Liao/Alexander G. Schwing/Richard S. Zemel/Raquel Urtasun,61,github/lrjconan/deep_parsimonious,1,0,0
+615,Graph Structured Prediction Energy Networks.,2019,Colin Graber/Alexander G. Schwing,4,github/cgraber/GSPEN,1,0,0
+1938,SemStyle: Learning to Generate Stylised Image Captions Using Unaligned Text.,2018,Alexander Patrick Mathews/Lexing Xie/Xuming He,50,github/computationalmedia/semstyle,1,0,0
+597,Tunable Efficient Unitary Neural Networks (EUNN) and their application to RNNs.,2017,Li Jing/Yichen Shen/Tena Dubcek/John Peurifoy/Scott A. Skirlo/Yann LeCun/Max Tegmark/Marin Soljacic,110,github/iguanaus/EUNN-theano,1,0,0
+1574,Single-Model Uncertainties for Deep Learning.,2019,Natasa Tagasovska/David Lopez-Paz,32,github/facebookresearch/SingleModelUncertainty,1,0,0
+465,Improving Evaluation of Machine Translation Quality Estimation.,2015,Yvette Graham,33,github/ygraham/mt-qe-eval,1,0,0
+130,GestureWiz: A Human-Powered Gesture Design Environment for User Interface Prototypes.,2018,Maximilian Speicher/Michael Nebeling,12,github/mi2lab/gesturewiz,1,0,0
+396,Online-Within-Online Meta-Learning.,2019,Giulia Denevi/Dimitris Stamos/Carlo Ciliberto/Massimiliano Pontil,9,github/dstamos/Adversarial-LTL,1,0,0
+2002,Deep Geometric Prior for Surface Reconstruction.,2019,Francis Williams/Teseo Schneider/Cláudio T. Silva/Denis Zorin/Joan Bruna/Daniele Panozzo,30,github/fwilliams/deep-geometric-prior,1,0,0
+2592,Weakly-Supervised Semantic Segmentation Network With Deep Seeded Region Growing.,2018,Zilong Huang/Xinggang Wang/Jiasi Wang/Wenyu Liu 0001/Jingdong Wang,135,github/speedinghzl/DSRG,1,0,0
+1013,Jointly Learning to Embed and Predict with Multiple Languages.,2016,Daniel C. Ferreira/André F. T. Martins/Mariana S. C. Almeida,82,github/dcferreira/multilingual-joint-embeddings,1,0,0
+2307,A Disentangled Recognition and Nonlinear Dynamics Model for Unsupervised Learning.,2017,Marco Fraccaro/Simon Kamronn/Ulrich Paquet/Ole Winther,128,github/simonkamronn/kvae,1,0,0
+2839,OpenKE: An Open Toolkit for Knowledge Embedding.,2018,Xu Han 0007/Shulin Cao/Xin Lv/Yankai Lin/Zhiyuan Liu 0001/Maosong Sun/Juanzi Li,93,github/thunlp/Fast-TransX,1,0,0
+173,Two Methods for Domain Adaptation of Bilingual Tasks: Delightfully Simple and Broadly Applicable.,2018,Viktor Hangya/Fabienne Braune/Alexander M. Fraser/Hinrich Schütze,15,github/hangyav/biadapt,1,0,0
+417,Fitting Low-Rank Tensors in Constant Time.,2017,Kohei Hayashi/Yuichi Yoshida,3,github/hayasick/CTFT,1,0,0
+2831,Toward Convolutional Blind Denoising of Real Photographs.,2019,Shi Guo/Zifei Yan/Kai Zhang 0008/Wangmeng Zuo/Lei Zhang 0006,168,github/GuoShi28/CBDNet,1,0,0
+1710,Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation.,2019,Chao Chen/Zhihong Chen/Boyuan Jiang/Xinyu Jin,58,github/A-bone1/JDDA,1,0,0
+2176,"Name Disambiguation in AMiner: Clustering, Maintenance, and Human in the Loop.",2018,Yutao Zhang/Fanjin Zhang/Peiran Yao/Jie Tang 0001,48,github/neozhangthe1/disambiguation,1,0,0
+2570,Actions Speak Louder than Goals: Valuing Player Actions in Soccer.,2019,Tom Decroos/Lotte Bransen/Jan Van Haaren/Jesse Davis,49,github/ML-KULeuven/socceraction,1,0,0
+3343,Proactive Human-Machine Conversation with Explicit Conversation Goal.,2019,Wenquan Wu/Zhen Guo/Xiangyang Zhou/Hua Wu/Xiyuan Zhang/Rongzhong Lian/Haifeng Wang,31,github/PaddlePaddle/models,1,0,0
+1048,Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning Inference.,2019,Mike Wu/Milan Mosse/Noah D. Goodman/Chris Piech,14,github/mhw32/rubric-sampling-public,1,0,0
+2549,TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning.,2017,Wei Wen/Cong Xu/Feng Yan 0001/Chunpeng Wu/Yandan Wang/Yiran Chen/Hai Li 0001,380,github/wenwei202/terngrad,1,0,0
+1607,Rethinking Deep Neural Network Ownership Verification: Embedding Passports to Defeat Ambiguity Attacks.,2019,Lixin Fan/KamWoh Ng/Chee Seng Chan,19,github/kamwoh/DeepIPR,1,0,0
+1512,Automatic Generation of Personalized Comment Based on User Profile.,2019,Wenhuan Zeng/Abulikemu Abuduweili/Lei Li/Pengcheng Yang,5,github/Walleclipse/AGPC,1,0,0
+2729,Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-Identification.,2019,Zhun Zhong/Liang Zheng 0001/Zhiming Luo/Shaozi Li/Yi Yang 0001,117,github/zhunzhong07/ECN,1,0,0
+1226,Improving Cross-Lingual Word Embeddings by Meeting in the Middle.,2018,Yerai Doval/José Camacho-Collados/Luis Espinosa Anke/Steven Schockaert,30,github/yeraidm/meemi,1,0,0
+239,Brick: A Synchronous Multiplayer Augmented Reality Game for Mobile Phones.,2019,Po Bhattacharyya/Yein Jo/Ketki Jadhav/Radha Nath/Jessica Hammer,1,github/trie94/Love-Brick,1,0,0
+3232,"ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games.",2017,Yuandong Tian/Qucheng Gong/Wenling Shang/Yuxin Wu/C. Lawrence Zitnick,97,github/facebookresearch/ELF,1,0,0
+1096,Learning Tasks for Multitask Learning: Heterogenous Patient Populations in the ICU.,2018,Harini Suresh/Jen J. Gong/John V. Guttag,24,github/mit-ddig/multitask-patients,1,0,0
+1536,Global Sparse Momentum SGD for Pruning Very Deep Neural Networks.,2019,Xiaohan Ding/Guiguang Ding/Xiangxin Zhou/Yuchen Guo/Jungong Han/Ji Liu,22,github/DingXiaoH/GSM-SGD,1,0,0
+332,The Influence of Context on Sentence Acceptability Judgements.,2018,Jean-Philippe Bernardy/Shalom Lappin/Jey Han Lau,5,github/GU-CLASP/BLL2018,1,0,0
+3432,2.5D Visual Sound.,2019,Ruohan Gao/Kristen Grauman,36,github/facebookresearch/FAIR-Play,1,0,0
+1145,Non-Stationary Spectral Kernels.,2017,Sami Remes/Markus Heinonen/Samuel Kaski,51,github/sremes/nonstationary-spectral-kernels,1,0,0
+2558,Hierarchical Discrete Distribution Decomposition for Match Density Estimation.,2019,Zhichao Yin/Trevor Darrell/Fisher Yu,70,github/ucbdrive/hd3,1,0,0
+2390,Hierarchical Decision Making by Generating and Following Natural Language Instructions.,2019,Hengyuan Hu/Denis Yarats/Qucheng Gong/Yuandong Tian/Mike Lewis,16,github/facebookresearch/minirts,1,0,0
+1782,Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency.,2019,Shuhuai Ren/Yihe Deng/Kun He 0001/Wanxiang Che,60,github/JHL-HUST/PWWS,1,0,0
+2687,Learning Attraction Field Representation for Robust Line Segment Detection.,2019,Nan Xue 0001/Song Bai/Fudong Wang/Gui-Song Xia/Tianfu Wu/Liangpei Zhang,23,github/cherubicXN/afm_cvpr2019,1,0,0
+2602,Multi-layer Representation Learning for Medical Concepts.,2016,Edward Choi/Mohammad Taha Bahadori/Elizabeth Searles/Catherine Coffey/Michael Thompson/James Bost/Javier Tejedor-Sojo/Jimeng Sun,314,github/mp2893/med2vec,1,0,0
+2090,A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors.,2018,Mikhail Khodak/Nikunj Saunshi/Yingyu Liang/Tengyu Ma/Brandon Stewart/Sanjeev Arora,44,github/NLPrinceton/ALaCarte,1,0,0
+1948,Learning to Adapt for Stereo.,2019,Alessio Tonioni/Oscar Rahnama/Thomas Joy/Luigi di Stefano/Thalaiyasingam Ajanthan/Philip H. S. Torr,18,github/CVLAB-Unibo/Learning2AdaptForStereo,1,0,0
+2473,Graph-Based Global Reasoning Networks.,2019,Yunpeng Chen/Marcus Rohrbach/Zhicheng Yan/Shuicheng Yan/Jiashi Feng/Yannis Kalantidis,99,github/facebookresearch/GloRe,1,0,0
+3491,Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks.,2019,Sitao Luan/Mingde Zhao/Xiao-Wen Chang/Doina Precup,23,github/PwnerHarry/Stronger_GCN,1,0,0
+1569,Conditional GANs for Multi-Illuminant Color Constancy: Revolution or yet Another Approach?,2019,Oleksii Sidorov,7,github/acecreamu/angularGAN,1,0,0
+1733,MetaQuant: Learning to Quantize by Learning to Penetrate Non-differentiable Quantization.,2019,Shangyu Chen/Wenya Wang/Sinno Jialin Pan,8,github/csyhhu/MetaQuant,1,0,0
+2849,Reinforcement Learning with Deep Energy-Based Policies.,2017,Tuomas Haarnoja/Haoran Tang/Pieter Abbeel/Sergey Levine,470,github/haarnoja/softqlearning,1,0,0
+1471,Boosting Entity Linking Performance by Leveraging Unlabeled Documents.,2019,Phong Le/Ivan Titov,14,github/lephong/wnel,1,0,0
+2006,Generating 3D Adversarial Point Clouds.,2019,Chong Xiang/Charles R. Qi/Bo Li,38,github/xiangchong1/3d-adv-pc,1,0,0
+1997,A Pilot Study for Chinese SQL Semantic Parsing.,2019,Qingkai Min/Yuefeng Shi/Yue Zhang,4,github/taolusi/chisp,1,0,0
+1023,Learning step sizes for unfolded sparse coding.,2019,Pierre Ablin/Thomas Moreau/Mathurin Massias/Alexandre Gramfort,15,github/tomMoral/adopty,1,0,0
+1487,Faster Attend-Infer-Repeat with Tractable Probabilistic Models.,2019,Karl Stelzner/Robert Peharz/Kristian Kersting,13,github/stelzner/supair,1,0,0
+2011,Cross-lingual Models of Word Embeddings: An Empirical Comparison.,2016,Shyam Upadhyay/Manaal Faruqui/Chris Dyer/Dan Roth,169,github/mfaruqui/eacl14-cca,1,0,0
+2273,Learning to Sample.,2019,Oren Dovrat/Itai Lang/Shai Avidan,100,github/orendv/learning_to_sample,1,0,0
+1029,DeepPINK: reproducible feature selection in deep neural networks.,2018,Yang Young Lu/Yingying Fan/Jinchi Lv/William Stafford Noble,40,github/younglululu/DeepPINK,1,0,0
+1454,Mercury: A Messaging Framework for Modular UI Components.,2018,Carmine Elvezio/Mengu Sukan/Steven Feiner,3,github/ColumbiaCGUI/MercuryMessaging,1,0,0
+1750,OCGAN: One-Class Novelty Detection Using GANs With Constrained Latent Representations.,2019,Pramuditha Perera/Ramesh Nallapati/Bing Xiang,78,github/PramuPerera/OCGAN,1,0,0
+2414,Efficient Image Retrieval via Decoupling Diffusion into Online and Offline Processing.,2019,Fan Yang 0038/Ryota Hinami/Yusuke Matsui/Steven Ly/Shin'ichi Satoh,14,github/fyang93/diffusion,1,0,0
+1067,Global Textual Relation Embedding for Relational Understanding.,2019,Zhiyu Chen/Hanwen Zha/Honglei Liu 0001/Wenhu Chen/Xifeng Yan/Yu Su 0001,2,github/czyssrs/GloREPlus,1,0,0
+948,SurfCon: Synonym Discovery on Privacy-Aware Clinical Data.,2019,Zhen Wang/Xiang Yue/Soheil Moosavinasab/Yungui Huang/Simon M. Lin/Huan Sun,2,github/yzabc007/SurfCon,1,0,0
+2737,Value Iteration Networks.,2016,Aviv Tamar/Sergey Levine/Pieter Abbeel/Yi Wu/Garrett Thomas,401,github/avivt/VIN,1,0,0
+1648,Backpropagation-Friendly Eigendecomposition.,2019,Wei Wang 0108/Zheng Dang/Yinlin Hu/Pascal Fua/Mathieu Salzmann,12,github/WeiWangTrento/Power-Iteration-SVD,1,0,0
+696,JPEG Grid Detection based on the Number of DCT Zeros and its Application to Automatic and Localized Forgery Detection.,2019,Tina Nikoukhah/Jérémy Anger/Thibaud Ehret/Miguel Colom/Jean-Michel Morel/Rafael Grompone von Gioi,2,github/tinankh/ZERO,1,0,0
+1185,Cross-Domain Transferability of Adversarial Perturbations.,2019,Muzammal Naseer/Salman H. Khan 0001/Muhammad Haris Khan/Fahad Shahbaz Khan/Fatih Porikli,14,github/Muzammal-Naseer/Cross-domain-perturbations,1,0,0
+2955,LXMERT: Learning Cross-Modality Encoder Representations from Transformers.,2019,Hao Tan/Mohit Bansal,182,github/airsplay/lxmert,1,0,0
+834,Trainable Calibration Measures For Neural Networks From Kernel Mean Embeddings.,2018,Aviral Kumar/Sunita Sarawagi/Ujjwal Jain,47,github/aviralkumar2907/MMCE,1,0,0
+1668,Variational Neural Machine Translation.,2016,Biao Zhang 0002/Deyi Xiong/Jinsong Su/Hong Duan/Min Zhang 0005,132,github/DeepLearnXMU/VNMT,1,0,0
+1702,Reinforced Dynamic Reasoning for Conversational Question Generation.,2019,Boyuan Pan/Hao Li/Ziyu Yao/Deng Cai/Huan Sun,14,github/ZJULearning/ReDR,1,0,0
+1755,Learning to Pivot with Adversarial Networks.,2017,Gilles Louppe/Michael Kagan/Kyle Cranmer,129,github/glouppe/paper-learning-to-pivot,1,0,0
+1108,Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation.,2019,Chenze Shao/Yang Feng 0004/Jinchao Zhang/Fandong Meng/Xilin Chen/Jie Zhou 0016,13,github/ictnlp/RSI-NAT,1,0,0
+1915,Exact and Estimation of Local Edge-centric Graphlet Counts.,2016,Nesreen K. Ahmed/Theodore L. Willke/Ryan A. Rossi,5,github/nkahmed/pgd,1,0,0
+3438,Correlation Tracking via Joint Discrimination and Reliability Learning.,2018,Chong Sun/Dong Wang 0004/Huchuan Lu/Ming-Hsuan Yang 0001,103,github/cswaynecool/DRT,1,0,0
+1979,Bridging the Gap between Relevance Matching and Semantic Matching for Short Text Similarity Modeling.,2019,Jinfeng Rao/Linqing Liu/Yi Tay/Hsiu-Wei Yang/Peng Shi/Jimmy Lin,20,github/jinfengr/hcan,1,0,0
+2424,Efficient Video Object Segmentation via Network Modulation.,2018,Linjie Yang/Yanran Wang/Xuehan Xiong/Jianchao Yang/Aggelos K. Katsaggelos,149,github/linjieyangsc/video_seg,1,0,0
+1282,Unsupervised Discovery of Temporal Structure in Noisy Data with Dynamical Components Analysis.,2019,David G. Clark/Jesse Livezey/Kristofer E. Bouchard,5,github/BouchardLab/DynamicalComponentsAnalysis,1,0,0
+1134,Low-Rank Tucker Decomposition of Large Tensors Using TensorSketch.,2018,Osman Asif Malik/Stephen Becker,24,github/OsmanMalik/tucker-tensorsketch,1,0,0
+247,Smart Roles: Inferring Professional Roles in Email Networks.,2019,Di Jin/Mark Heimann/Tara Safavi/Mengdi Wang/Wei Lee/Lindsay Snider/Danai Koutra,4,github/GemsLab/EMBER,1,0,0
+700,Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation-Maximization Framework.,2019,Junfan Chen/Richong Zhang/Yongyi Mao/Hongyu Guo/Jie Xu 0007,3,github/AlbertChen1991/nEM,1,0,0
+1798,Skip Context Tree Switching.,2014,Marc G. Bellemare/Joel Veness/Erik Talvitie,34,github/mgbellemare/SkipCTS,1,0,0
+67,Estimating Cellular Goals from High-Dimensional Biological Data.,2019,Laurence Yang/Michael A. Saunders/Jean-Christophe Lachance/Bernhard O. Palsson/José Bento,2,github/laurenceyang33/cellgoal,1,0,0
+683,Variable Selection and Task Grouping for Multi-Task Learning.,2018,Jun-Yong Jeong/Chi-Hyuck Jun,10,github/JunYongJeong/VSTG-MTL,1,0,0
+1538,An Empirical Study of Chinese Name Matching and Applications.,2015,Nanyun Peng/Mo Yu/Mark Dredze,42,github/hltcoe/mingpipe,1,0,0
+1377,Expressive power of tensor-network factorizations for probabilistic modeling.,2019,Ivan Glasser/Ryan Sweke/Nicola Pancotti/Jens Eisert/J. Ignacio Cirac,12,github/glivan/tensor_networks_for_probabilistic_modeling,1,0,0
+2531,Practical Deep Learning with Bayesian Principles.,2019,Kazuki Osawa/Siddharth Swaroop/Mohammad Emtiyaz Khan/Anirudh Jain/Runa Eschenhagen/Richard E. Turner/Rio Yokota,37,github/team-approx-bayes/dl-with-bayes,1,0,0
+2086,Multi-Frame Quality Enhancement for Compressed Video.,2018,Ren Yang/Mai Xu/Zulin Wang/Tianyi Li,66,github/ryangBUAA/MFQE,1,0,0
+1188,Robust Inference via Generative Classifiers for Handling Noisy Labels.,2019,Kimin Lee/Sukmin Yun/Kibok Lee/Honglak Lee/Bo Li/Jinwoo Shin,26,github/pokaxpoka/RoGNoisyLabel,1,0,0
+1104,Predicting Economic Development using Geolocated Wikipedia Articles.,2019,Evan Sheehan/Chenlin Meng/Matthew Tan/Burak Uzkent/Neal Jean/Marshall Burke/David B. Lobell/Stefano Ermon,25,github/ermongroup/WikipediaPovertyMapping,1,0,0
+2284,MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation.,2019,Yazan Abu Farha/Jürgen Gall,52,github/yabufarha/ms-tcn,1,0,0
+1857,CBMV: A Coalesced Bidirectional Matching Volume for Disparity Estimation.,2018,Konstantinos Batsos/Changjiang Cai/Philippos Mordohai,23,github/kbatsos/CBMV,1,0,0
+1714,Controlling Output Length in Neural Encoder-Decoders.,2016,Yuta Kikuchi/Graham Neubig/Ryohei Sasano/Hiroya Takamura/Manabu Okumura,113,github/kiyukuta/lencon,1,0,0
+1489,Gradient based sample selection for online continual learning.,2019,Rahaf Aljundi/Min Lin/Baptiste Goujaud/Yoshua Bengio,39,github/rahafaljundi/Gradient-based-Sample-Selection,1,0,0
+1703,Deep Diffeomorphic Transformer Networks.,2018,Nicki Skafte Detlefsen/Oren Freifeld/Søren Hauberg,19,github/SkafteNicki/ddtn,1,0,0
+2603,Structure Discovery in Nonparametric Regression through Compositional Kernel Search.,2013,David Duvenaud/James Robert Lloyd/Roger B. Grosse/Joshua B. Tenenbaum/Zoubin Ghahramani,357,github/jamesrobertlloyd/gp-structure-search,1,0,0
+429,Ultrametric Fitting by Gradient Descent.,2019,Giovanni Chierchia/Benjamin Perret,7,github/PerretB/ultrametric-fitting,1,0,0
+307,Predicting the Compositionality of Nominal Compounds: Giving Word Embeddings a Hard Time.,2016,Silvio Cordeiro/Carlos Ramisch/Marco Idiart/Aline Villavicencio,38,github/ceramisch/minimantics,1,0,0
+262,Removing the Feature Correlation Effect of Multiplicative Noise.,2018,Zijun Zhang/Yining Zhang/Zongpeng Li,2,github/zj10/NCMN,1,0,0
+1657,Lending Orientation to Neural Networks for Cross-View Geo-Localization.,2019,Liu Liu 0009/Hongdong Li,15,github/Liumouliu/OriCNN,1,0,0
+549,Gaining Free or Low-Cost Interpretability with Interpretable Partial Substitute.,2019,Tong Wang,9,github/wangtongada/HyRS,1,0,0
+2323,Multi-source Domain Adaptation for Semantic Segmentation.,2019,Sicheng Zhao/Bo Li/Xiangyu Yue/Yang Gu/Pengfei Xu 0013/Runbo Hu/Hua Chai/Kurt Keutzer,23,github/Luodian/MADAN,1,0,0
+1716,Multi-level Translation Quality Prediction with QuEst++.,2015,Lucia Specia/Gustavo Paetzold/Carolina Scarton,91,github/ghpaetzold/questplusplus,1,0,0
+2422,Large-Scale Learnable Graph Convolutional Networks.,2018,Hongyang Gao/Zhengyang Wang/Shuiwang Ji,167,github/divelab/lgcn,1,0,0
+944,Analytical Methods for Interpretable Ultradense Word Embeddings.,2019,Philipp Dufter/Hinrich Schütze,6,github/pdufter/densray,1,0,0
+2800,"Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation.",2019,Anurag Ranjan/Varun Jampani/Lukas Balles/Kihwan Kim/Deqing Sun/Jonas Wulff/Michael J. Black,114,github/anuragranj/cc,1,0,0
+190,CogNet: A Large-Scale Cognate Database.,2019,Khuyagbaatar Batsuren/Gábor Bella/Fausto Giunchiglia,4,github/kbatsuren/wiktra,1,0,0
+1042,Affinity Clustering: Hierarchical Clustering at Scale.,2017,MohammadHossein Bateni/Soheil Behnezhad/Mahsa Derakhshan/MohammadTaghi Hajiaghayi/Raimondas Kiveris/Silvio Lattanzi/Vahab S. Mirrokni,35,github/MahsaDerakhshan/AffinityClustering,1,0,0
+566,SurfaceConstellations: A Modular Hardware Platform for Ad-Hoc Reconfigurable Cross-Device Workspaces.,2018,Nicolai Marquardt/Frederik Brudy/Can Liu 0003/Ben Bengler/Christian Holz 0001,15,github/nicmarquardt/surfaceconstellations,1,0,0
+1774,Vecalign: Improved Sentence Alignment in Linear Time and Space.,2019,Brian Thompson/Philipp Koehn,11,github/thompsonb/vecalign,1,0,0
+1164,Lost Relatives of the Gumbel Trick.,2017,Matej Balog/Nilesh Tripuraneni/Zoubin Ghahramani/Adrian Weller,19,github/matejbalog/gumbel-relatives,1,0,0
+1132,Designing Policy Recommendations to Reduce Home Abandonment in Mexico.,2016,Klaus Ackermann/Eduardo Blancas Reyes/Sue He/Thomas Anderson Keller/Paul van der Boor/Romana Khan/Rayid Ghani/José Carlos González,5,github/k1aus/parallelsql,1,0,0
+155,Nonparametric variable importance using an augmented neural network with multi-task learning.,2018,Jean Feng/Brian D. Williamson/Marco Carone/Noah Simon,10,github/jjfeng/nnet_var_import,1,0,0
+2631,Autoregressive Convolutional Neural Networks for Asynchronous Time Series.,2018,Mikolaj Binkowski/Gautier Marti/Philippe Donnat,61,github/mbinkowski/nntimeseries,1,0,0
+2252,Leveraging Unlabeled Data for Crowd Counting by Learning to Rank.,2018,Xialei Liu/Joost van de Weijer 0001/Andrew D. Bagdanov,138,github/xialeiliu/CrowdCountingCVPR18,1,0,0
+2192,Self-Supervised Generalisation with Meta Auxiliary Learning.,2019,Shikun Liu/Andrew J. Davison/Edward Johns,26,github/lorenmt/maxl,1,0,0
+1163,COLA: Decentralized Linear Learning.,2018,Lie He/An Bian/Martin Jaggi,54,github/epfml/cola,1,0,0
+2309,DAG-GNN: DAG Structure Learning with Graph Neural Networks.,2019,Yue Yu/Jie Chen/Tian Gao/Mo Yu,42,github/fishmoon1234/DAG-GNN,1,0,0
+596,The Variational Predictive Natural Gradient.,2019,Da Tang/Rajesh Ranganath,1,github/datang1992/VPNG,1,0,0
+2366,Tree Transformer: Integrating Tree Structures into Self-Attention.,2019,Yau-Shian Wang/Hung-yi Lee/Yun-Nung Chen,18,github/yaushian/Tree-Transformer,1,0,0
+1129,Distributional Policy Optimization: An Alternative Approach for Continuous Control.,2019,Chen Tessler/Guy Tennenholtz/Shie Mannor,13,github/tesslerc/GAC,1,0,0
+2150,Adding vs. Averaging in Distributed Primal-Dual Optimization.,2015,Chenxin Ma/Virginia Smith/Martin Jaggi/Michael I. Jordan/Peter Richtárik/Martin Takác,152,github/gingsmith/cocoa,1,0,0
+1946,Towards Binary-Valued Gates for Robust LSTM Training.,2018,Zhuohan Li/Di He/Fei Tian/Wei Chen 0034/Tao Qin/Liwei Wang 0001/Tie-Yan Liu,32,github/zhuohan123/g2-lstm,1,0,0
+1646,Probabilistic Neural Programmed Networks for Scene Generation.,2018,Zhiwei Deng/Jiacheng Chen/Yifang Fu/Greg Mori,10,github/Lucas2012/ProbabilisticNeuralProgrammedNetwork,1,0,0
+606,GOT: An Optimal Transport framework for Graph comparison.,2019,Hermina Petric Maretic/Mireille El Gheche/Giovanni Chierchia/Pascal Frossard,9,github/Hermina/GOT,1,0,0
+2317,Masked Autoregressive Flow for Density Estimation.,2017,George Papamakarios/Iain Murray 0001/Theo Pavlakou,386,github/gpapamak/maf,1,0,0
+1224,Challenges of Using Text Classifiers for Causal Inference.,2018,Zach Wood-Doughty/Ilya Shpitser/Mark Dredze,17,github/zachwooddoughty/emnlp2018-causal,1,0,0
+1270,Cross-lingual Lexical Sememe Prediction.,2018,Fanchao Qi/Yankai Lin/Maosong Sun/Hao Zhu 0006/Ruobing Xie/Zhiyuan Liu 0001,13,github/thunlp/CL-SP,1,0,0
+2034,Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification.,2019,Minghao Hu/Yuxing Peng/Zhen Huang 0006/Dongsheng Li 0001/Yiwei Lv,24,github/huminghao16/SpanABSA,1,0,0
+1920,Bayesian Optimization of Combinatorial Structures.,2018,Ricardo Baptista/Matthias Poloczek,41,github/baptistar/BOCS,1,0,0
+298,Nearest-Neighbour-Induced Isolation Similarity and Its Impact on Density-Based Clustering.,2019,Xiaoyu Qin/Kai Ming Ting/Ye Zhu/Vincent C. S. Lee,8,github/cswords/anne-dbscan-demo,1,0,0
+865,Are Distributional Representations Ready for the Real World? Evaluating Word Vectors for Grounded Perceptual Meaning.,2017,Li Lucy/Jon Gauthier,26,github/lucy3/grounding-embeddings,1,0,0
+2289,Fast and Accurate Single Image Super-Resolution via Information Distillation Network.,2018,Zheng Hui/Xiumei Wang/Xinbo Gao,215,github/Zheng222/IDN-Caffe,1,0,0
+2607,DAGs with NO TEARS: Continuous Optimization for Structure Learning.,2018,Xun Zheng/Bryon Aragam/Pradeep Ravikumar/Eric P. Xing,76,github/xunzheng/notears,1,0,0
+2827,SParC: Cross-Domain Semantic Parsing in Context.,2019,Tao Yu/Rui Zhang 0037/Michihiro Yasunaga/Yi Chern Tan/Xi Victoria Lin/Suyi Li/Heyang Er/Irene Li/Bo Pang/Tao Chen/Emily Ji/Shreya Dixit/David Proctor/Sungrok Shim/Jonathan Kraft/Vincent Zhang/Caiming Xiong/Richard Socher/Dragomir R. Radev,8,github/taoyds/spider,1,0,0
+1228,Concept Pointer Network for Abstractive Summarization.,2019,Wenbo Wang/Yang Gao 0016/Heyan Huang/Yuxiang Zhou,7,github/wprojectsn/codes,1,0,0
+476,Constraint-Based Sequential Pattern Mining with Decision Diagrams.,2019,Amin Hosseininasab/Willem-Jan van Hoeve/André A. Ciré,1,github/aminhn/MPP,1,0,0
+2713,Texture Synthesis Using Convolutional Neural Networks.,2015,Leon A. Gatys/Alexander S. Ecker/Matthias Bethge,738,github/leongatys/DeepTextures,1,0,0
+1340,Multi-Scale Deep Neural Networks for Real Image Super-Resolution.,2019,Shangqi Gao/Xiahai Zhuang,12,github/shangqigao/gsq-image-SR,1,0,0
+3333,Depth-Aware Video Frame Interpolation.,2019,Wenbo Bao/Wei-Sheng Lai/Chao Ma 0004/Xiaoyun Zhang/Zhiyong Gao/Ming-Hsuan Yang 0001,79,github/baowenbo/DAIN,1,0,0
+2701,Discovering Structure in High-Dimensional Data Through Correlation Explanation.,2014,Greg Ver Steeg/Aram Galstyan,86,github/gregversteeg/CorEx,1,0,0
+2378,Object Counting and Instance Segmentation With Image-Level Supervision.,2019,Hisham Cholakkal/Guolei Sun/Fahad Shahbaz Khan/Ling Shao 0001,29,github/GuoleiSun/CountSeg,1,0,0
+3427,Deep Cascade Multi-Task Learning for Slot Filling in Online Shopping Assistant.,2019,Yu Gong/Xusheng Luo/Yu Zhu/Wenwu Ou/Zhao Li/Muhua Zhu/Kenny Q. Zhu/Lu Duan/Xi Chen,10,github/pangolulu/DCMTL,1,0,0
+2654,"Sparser, Better, Faster GPU Parsing.",2014,David Hall 0006/Taylor Berg-Kirkpatrick/Dan Klein,25,github/dlwh/puck,1,0,0
+1273,A Simple Baseline for Audio-Visual Scene-Aware Dialog.,2019,Idan Schwartz/Alexander G. Schwing/Tamir Hazan,8,github/idansc/simple-avsd,1,0,0
+1753,Cross-Sentence Grammatical Error Correction.,2019,Shamil Chollampatt/Weiqi Wang/Hwee Tou Ng,7,github/nusnlp/crosentgec,1,0,0
+3537,SemAxis: A Lightweight Framework to Characterize Domain-Specific Word Semantics Beyond Sentiment.,2018,Jisun An/Haewoon Kwak/Yong-Yeol Ahn,17,github/ghdi6758/SemAxis,1,0,0
+1230,Kernel Mean Matching for Content Addressability of GANs.,2019,Wittawat Jitkrittum/Patsorn Sangkloy/Muhammad Waleed Gondal/Amit Raj/James Hays/Bernhard Schölkopf,2,github/wittawatj/cadgan,1,0,0
+2471,"Lookahead Optimizer: k steps forward, 1 step back.",2019,Michael R. Zhang/James Lucas/Jimmy Ba/Geoffrey E. Hinton,123,github/michaelrzhang/lookahead,1,0,0
+205,Parsimonious Bayesian deep networks.,2018,Mingyuan Zhou,5,github/mingyuanzhou/PBDN,1,0,0
+72,MobileTouchDB: Mobile Touch Character Database in the Wild and Biometric Benchmark.,2019,Rubén Tolosana/Javier Gismero-Trujillo/Rubén Vera-Rodríguez/Julian Fiérrez/Javier Ortega-Garcia,5,github/BiDAlab/MobileTouchDB,1,0,0
+860,Legendre Decomposition for Tensors.,2018,Mahito Sugiyama/Hiroyuki Nakahara/Koji Tsuda,3,github/mahito-sugiyama/Legendre-decomposition,1,0,0
+966,Amortized Monte Carlo Integration.,2019,Adam Golinski/Frank Wood/Tom Rainforth,2,github/talesa/amci,1,0,0
+32,LabelForest: Non-Parametric Semi-Supervised Learning for Activity Recognition.,2019,Yuchao Ma/Hassan Ghasemzadeh,2,github/y-max/LabelForest,1,0,0
+2914,A Papier-Mâché Approach to Learning 3D Surface Generation.,2018,Thibault Groueix/Matthew Fisher/Vladimir G. Kim/Bryan C. Russell/Mathieu Aubry,345,github/ThibaultGROUEIX/AtlasNet,1,0,0
+228,How much progress have we made on RST discourse parsing? A replication study of recent results on the RST-DT.,2017,Mathieu Morey/Philippe Muller/Nicholas Asher,40,github/irit-melodi/rst-eval,1,0,0
+311,Transductive Bounds for the Multi-Class Majority Vote Classifier.,2019,Vasilii Feofanov/Emilie Devijver/Massih-Reza Amini,1,github/vfeofanov/trans-bounds-maj-vote,1,0,0
+73,Bleaching Text: Abstract Features for Cross-lingual Gender Prediction.,2018,Rob van der Goot/Nikola Ljubesic/Ian Matroos/Malvina Nissim/Barbara Plank,44,github/bplank/bleaching-text,1,0,0
+2967,Falcon: Balancing Interactive Latency and Resolution Sensitivity for Scalable Linked Visualizations.,2019,Dominik Moritz/Bill Howe/Jeffrey Heer,16,github/uwdata/falcon,1,0,0
+2948,Universal Style Transfer via Feature Transforms.,2017,Yijun Li/Chen Fang/Jimei Yang/Zhaowen Wang/Xin Lu 0006/Ming-Hsuan Yang 0001,293,github/Yijunmaverick/UniversalStyleTransfer,1,0,0
+7,Coresets for Minimum Enclosing Balls over Sliding Windows.,2019,Yanhao Wang 0001/Yuchen Li/Kian-Lee Tan,3,github/yhwang1990/SW-MEB,1,0,0
+50,Alpscarf: Augmenting Scarf Plots for Exploring Temporal Gaze Patterns.,2018,Chia-Kai Yang/Chat Wacharamanotham,10,github/chia-kaiyang/alpscarf,1,0,0
+2214,Stabilizing Training of Generative Adversarial Networks through Regularization.,2017,Kevin Roth/Aurélien Lucchi/Sebastian Nowozin/Thomas Hofmann,226,github/rothk/Stabilizing_GANs,1,0,0
+3005,PifPaf: Composite Fields for Human Pose Estimation.,2019,Sven Kreiss/Lorenzo Bertoni/Alexandre Alahi,60,github/vita-epfl/openpifpaf,1,0,0
+1916,Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon.,2017,Xin Dong 0009/Shangyu Chen/Sinno Jialin Pan,149,github/csyhhu/L-OBS,1,0,0
+3345,Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue.,2019,Dongyeop Kang/Anusha Balakrishnan/Pararth Shah/Paul Crook/Y-Lan Boureau/Jason Weston,13,github/facebookresearch/ParlAI,1,0,0
+3016,FreeAnchor: Learning to Match Anchors for Visual Object Detection.,2019,Xiaosong Zhang/Fang Wan/Chang Liu 0042/Rongrong Ji/Qixiang Ye,50,github/zhangxiaosong18/FreeAnchor,1,0,0
+2671,Hierarchically-Refined Label Attention Network for Sequence Labeling.,2019,Leyang Cui/Yue Zhang,18,github/Nealcly/LAN,1,0,0
+1639,Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation.,2019,Shani Gamrian/Yoav Goldberg,28,github/ShaniGam/RL-GAN,1,0,0
